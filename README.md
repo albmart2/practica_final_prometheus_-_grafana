@@ -6,7 +6,7 @@ Para poder iniciar los servicios que hemos indicado en los ficheros docker-compo
 
 ``` docker-compose up -d ```
 
-### Verificar los servicios
+## Verificar los servicios
 
 Para poder verificar que los servicios se hayan creado correctamente, debemos de ejecutar el siguiente comando:
 
