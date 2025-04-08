@@ -23,3 +23,17 @@ Para iniciar sesión por primera vez, deberas de poner las siguientes credencial
 - Contraseña: ```admin```
 
 Al iniciar sesión por primera vez, se te solicitará el cambio de la contraseña predeterminada.
+
+## Configurar la fuente de datos de Prometheus en Grafana
+
+1. En Grafana debemos de ir a **Connections** > **Data Sources**
+
+2. Hacer click en **Add data source**
+
+3. Seleccionamos "Prometheus"
+
+4. Configurar la URL: ```http://prometheus:9090```
+
+5. Una vez terminado, hacer click en **Save & Test** para verificar la conexión
+
+
