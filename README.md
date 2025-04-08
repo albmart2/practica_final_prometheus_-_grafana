@@ -14,7 +14,7 @@ Para poder verificar que los servicios se hayan creado correctamente, debemos de
 
 ## Grafana
 
-Una vez ya iniciados los servicios y comprobado que este todo correcto, podemos abrir en el navegador web e it a ```http://localhost:3000``` para poder abrir e iniciar sesion en **Grafana**
+Una vez ya iniciados los servicios y comprobado que este todo correcto, podemos abrir en el navegador web e ir a ```http://localhost:3000``` para poder abrir e iniciar sesion en **Grafana**
 
 Para iniciar sesión por primera vez, deberas de poner las siguientes credenciales:
 
