@@ -35,3 +35,8 @@ Al iniciar sesión por primera vez, se te solicitará el cambio de la contraseñ
 4. Configurar la URL: ```http://prometheus:9090```.
 
 5. Una vez terminado, hacer click en **Save & Test** para verificar la conexión.
+
+## Nota
+|NOTA FINAL|
+|----------|
+|8|
